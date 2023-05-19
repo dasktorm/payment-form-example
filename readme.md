@@ -8,4 +8,4 @@ b) Amount tiene el "input type=number" pero no le puedo quitar las flechas, ni p
 c) No se como hacer que el danger-banner salga cuando solo le demos a enviar.
 
 Solución:
-aS) Utilicé "Pattern" dandole valores de entrada de 0-9 para que por lo menos no deje enviar letras.
+aS) Utilicé "Pattern" dandole valores de entrada de 0-9 y de A-Z para que por lo menos no deje enviar valores erroneos.
